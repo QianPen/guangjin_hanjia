@@ -22,13 +22,13 @@
 
 完成以上步骤后
 
-0.确保package.json和guangjin_hanjia是同一级目录
 1. 确保已安装 Node.js 和 npm
 2. 解压源码压缩包（如果有）
 3. 在命令行中进入项目文件夹
 4. 运行 `npm install` 安装依赖
 5. 运行 `npm run serve` 启动开发服务器
 6. 在浏览器中访问命令行显示的地址
+
 
 ## 技术栈
 
